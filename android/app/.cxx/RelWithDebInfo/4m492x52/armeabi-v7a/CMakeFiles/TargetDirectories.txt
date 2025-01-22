@@ -1,0 +1,2 @@
+C:/Users/manas/Downloads/move_app/move_app/android/app/.cxx/RelWithDebInfo/4m492x52/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/manas/Downloads/move_app/move_app/android/app/.cxx/RelWithDebInfo/4m492x52/armeabi-v7a/CMakeFiles/rebuild_cache.dir
