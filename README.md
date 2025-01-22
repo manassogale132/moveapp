@@ -1,6 +1,12 @@
-# Move App Documentation
+![Screenshot_20250122_144023_com_example_untitled_MainActivity](https://github.com/user-attachments/assets/b2aaf9bd-e1ea-4aaa-b23d-d964318fecc8)# Move App Documentation
 
 
+
+![Screenshot_20250122_143942_com_example_untitled_MainActivity](https://github.com/user-attachments/assets/0dceb757-e7f7-42f8-99eb-e876ddc53109)
+![Screenshot_20250122_143946_com_example_untitled_MainActivity](https://github.com/user-attachments/assets/dfaa714e-2a79-45c4-8efa-8b67a4d907c8)
+![Screenshot_20250122_144018_com_example_untitled_MainActivity](https://github.com/user-attachments/assets/d17acefe-b1f6-42ea-bdfa-1d3dfd3d41b5)
+![Screenshot_20250122_143957_com_example_untitled_MainActivity](https://github.com/user-attachments/assets/4526d4e6-c667-4a52-9883-493d2a62346c)
+![Screenshot_20250122_144023_com_example_untitled_MainActivity](https://github.com/user-attachments/assets/d400cee1-73e0-4001-943d-3a924a9e517e)
 
 ## Overview
 A Flutter application that displays movie information, allows searching, and manages favorite movies. The app implements dark/light theme switching and uses TMDB API for movie data.
