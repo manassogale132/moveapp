@@ -1,6 +1,6 @@
 # Move App Documentation
 
-![photo-collage png](https://github.com/user-attachments/assets/f74aa873-c8a5-459f-8c33-eb95e250db30)
+![screenshots](https://github.com/user-attachments/assets/48506aae-0d46-46b2-85a9-6fc9b6063b94)
 
 
 ## Overview
